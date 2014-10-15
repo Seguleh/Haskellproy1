@@ -1,4 +1,8 @@
-Haskellproy1
+Haskell_Proy1
 ============
 
-Map of coordiantes and find a path between coordinates in a matrix.
+2 Main Functions:
+
+-Map of matrix coordiantes in binary
+
+-Find a path between coordinates in a matrix.
